@@ -1,3 +1,3 @@
-Independent Developer | Rust • Web3 • AI
+Independent Developer | Rust • Go • Web3 • AI
 
 Building tools for blockchain data, automation and developer utilities.
