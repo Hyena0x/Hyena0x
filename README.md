@@ -1,17 +1,16 @@
 # Hi, I'm Hyena
 
-I build EVM tooling, developer automation, and protocol-heavy software in Rust/Go.
+I build protocol-heavy Web3 infrastructure and developer tools in Rust and Go.
 
-My work sits around blockchain data, on-chain analysis, monitoring, developer workflows, and systems that need strong architecture, concurrency, and debugging discipline.
+Background in communication systems and Android IM SDK engineering.  
+Currently building EVM indexing, monitoring, analysis, and backend systems that need reliability, concurrency, and careful debugging.
 
-## Focus
+## Open to
 
-- EVM indexing, monitoring, and analysis
-- Rust / Go CLI tools and backend systems
-- protocol-heavy architecture
-- concurrency and hard debugging
-- practical developer tooling
+- Web3 infrastructure and protocol-system collaboration
+- Android IM / chat SDK modernization
+- legacy system rescue, migrations, and hard debugging
 
-## Philosophy
+## Principle
 
 I prefer small, focused, production-minded tools over bloated products.
