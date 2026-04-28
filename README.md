@@ -1,16 +1,26 @@
 # Hi, I'm Hyena
 
-I build protocol-heavy Web3 infrastructure and developer tools in Rust and Go.
+I help teams stabilize legacy Android IM SDKs, realtime messaging flows, and risky AI-generated code changes before they reach production.
 
-Background in communication systems and Android IM SDK engineering.  
-Currently building EVM indexing, monitoring, analysis, and backend systems that need reliability, concurrency, and careful debugging.
+My work focuses on systems where bugs are hard to reproduce and expensive to ship: reconnect logic, offline delivery, ACK/deduplication, ordering, state recovery, CI gaps, and release safety.
 
-## Open to
+## I can help with
 
-- Web3 infrastructure and protocol-system collaboration
-- Android IM / chat SDK modernization
-- legacy system rescue, migrations, and hard debugging
+- Legacy Android IM and chat SDK debugging
+- Realtime messaging reliability
+- AI-generated code QA
+- CI and release gate hardening
+- Rust/Go automation tools
+- EVM monitoring and wallet-analysis tooling
+
+## What this GitHub shows
+
+- AI code QA and repo safety tooling
+- Release gates and rollback-minded workflows
+- Rust CLI and developer-tool productization
+- EVM monitoring and wallet-analysis tools
+- Reliability work for hard-to-reproduce failures
 
 ## Principle
 
-I prefer small, focused, production-minded tools over bloated products.
+Small, focused, production-minded tools over bloated products.
