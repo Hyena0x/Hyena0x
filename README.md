@@ -13,14 +13,6 @@ My work focuses on systems where bugs are hard to reproduce and expensive to shi
 - Rust/Go automation tools
 - EVM monitoring and wallet-analysis tooling
 
-## What this GitHub shows
+## Contact
 
-- AI code QA and repo safety tooling
-- Release gates and rollback-minded workflows
-- Rust CLI and developer-tool productization
-- EVM monitoring and wallet-analysis tools
-- Reliability work for hard-to-reproduce failures
-
-## Principle
-
-Small, focused, production-minded tools over bloated products.
+For collaboration or freelance work: hi.hyena@proton.me
